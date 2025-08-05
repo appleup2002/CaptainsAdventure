@@ -4407,3 +4407,546 @@ Begin'
 [2025.08.05-16.09.35:356][936]BlueprintLog: New page: Compile BP_PaperZdCharacter_Player_Captain
 [2025.08.05-16.09.35:402][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
 [2025.08.05-16.09.36:261][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.08.05-16.22.46:789][366]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2025.08.05-16.23.12:073][875]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.05-16.23.12:079][875]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.05-16.23.43:010][707]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Capta8B3890244D6BE999D2395C9964B83817.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/Captain/BP_PaperZdCharacter_Player_Captain.uasset'
+[2025.08.05-16.23.43:026][707]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Captain
+[2025.08.05-16.23.43:026][707]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/Captain/BP_PaperZdCharacter_Player_Captain.BP_PaperZdCharacter_Player_Captain
+[2025.08.05-16.24.51:988][419]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base6BDB81004467391050527EAB0C7170BB.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.24.52:002][419]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.24.52:002][419]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.10:534][972]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_BaseE16F0EFB43C25F5AE9EF578416245CBF.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.25.10:547][972]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.10:547][972]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.11:478][ 27]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_BaseADF1F77F41A7331190C328B2FBB875FB.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.25.11:493][ 27]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.11:493][ 27]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.12:557][ 90]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base2476444F4DFAB340E22ADEA4B170308E.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.25.12:570][ 90]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.12:570][ 90]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.15:428][166]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_BaseE9E13A5340BBF92EC0726CB4E23E03AE.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.25.15:441][166]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.15:441][166]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.15:994][200]BlueprintLog: New page: Compile BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.16:059][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2025.08.05-16.25.16:181][204]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base59E618644F8B2E27E488BC8508FAC36E.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.25.16:196][204]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.16:196][204]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.25.23:817][394]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.05-16.25.23:823][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-16.25.23:823][394]PIE: New page: PIE session: M_Debug (2025年8月6日 上午8:25:23)
+[2025.08.05-16.25.23:823][394]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.25.23:825][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001464s)
+[2025.08.05-16.25.23:825][394]LogAIModule: Creating AISystem for world M_Debug
+[2025.08.05-16.25.23:826][394]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2025.08.05-16.25.23:826][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Debug.M_Debug to /Game/Maps/UEDPIE_0_M_Debug.M_Debug (0.002437s)
+[2025.08.05-16.25.23:855][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2025.08.05-16.25.23:856][394]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.08.05-16.25.23:856][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-16.25.23:856][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-16.25.23:856][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-16.25.23:856][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-16.25.23:856][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.05-16.25.23:856][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-16.25.23:856][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.05-16.25.23:856][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-16.25.23:856][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-16.25.23:856][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-16.25.23:856][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-16.25.23:856][394]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.05-16.25.23:861][394]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.05-16.25.23:861][394]LogAudioMixer: Display: 1: FrontRight
+[2025.08.05-16.25.23:872][394]LogAudioMixer: Display: Using Audio Device 原道 (Realtek(R) Audio)
+[2025.08.05-16.25.23:873][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-16.25.23:873][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-16.25.23:873][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-16.25.23:873][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.05-16.25.23:873][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.05-16.25.23:873][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.05-16.25.23:875][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.05-16.25.23:875][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.05-16.25.23:875][394]LogInit: FAudioDevice initialized.
+[2025.08.05-16.25.23:875][394]LogAudio: Display: Audio Device (ID: 34) registered with world 'M_Debug'.
+[2025.08.05-16.25.23:886][394]LogLoad: Game class is 'GM_MainRule_C'
+[2025.08.05-16.25.23:887][394]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Debug.M_Debug up for play (max tick rate 60) at 2025.08.06-00.25.23
+[2025.08.05-16.25.23:888][394]LogWorld: Bringing up level for play took: 0.000652
+[2025.08.05-16.25.23:888][394]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2025.08.05-16.25.23:891][394]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.08.05-16.25.23:891][394]PIE: Server logged in
+[2025.08.05-16.25.23:892][394]PIE: Play in editor total start time 0.07 seconds.
+[2025.08.05-16.25.24:356][422]PIE: Warning: Tried to play animation override on inexistent slot 'DefaultSlot'.
+[2025.08.05-16.25.24:357][422]LogScript: Script Msg: Could not play animation override
+[2025.08.05-16.25.24:821][450]PIE: Warning: Tried to play animation override on inexistent slot 'DefaultSlot'.
+[2025.08.05-16.25.24:821][450]LogScript: Script Msg: Could not play animation override
+[2025.08.05-16.25.25:638][499]PIE: Warning: Tried to play animation override on inexistent slot 'DefaultSlot'.
+[2025.08.05-16.25.25:638][499]LogScript: Script Msg: Could not play animation override
+[2025.08.05-16.25.48:490][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.25.48:490][ 10]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.25.48:490][ 10]LogWorld: UWorld::CleanupWorld for M_Debug, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-16.25.48:490][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.25.48:500][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-16.25.48:508][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.25.48:534][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.05-16.25.48:534][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.25.48:535][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.25.48:537][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.25.48:539][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.08.05-16.25.48:613][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.08.05-16.25.50:404][115]LogSlate: Window 'Message Log' being destroyed
+[2025.08.05-16.25.50:409][115]LogSlate: Window 'Message Log' being destroyed
+[2025.08.05-16.26.28:681][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Characters/Player/Captain/ABP_Captain" FILE="E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/Captain/ABP_Captain.uasset" SILENT=true
+[2025.08.05-16.26.28:695][718]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/ABP_Captain7479FF4D4102CC09CFB8889409BE14A8.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/Captain/ABP_Captain.uasset'
+[2025.08.05-16.26.28:712][718]AssetCheck: New page: Asset Save: ABP_Captain
+[2025.08.05-16.26.28:712][718]LogContentValidation: Display: Validating PaperZDAnimBP /Game/BluePrints/Characters/Player/Captain/ABP_Captain.ABP_Captain
+[2025.08.05-16.26.37:513][245]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base4058E14848DA7B26372BF2B8AFAFD711.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.26.37:525][245]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.26.37:525][245]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.26.38:647][313]BlueprintLog: New page: Compile BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.26.38:705][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2025.08.05-16.26.38:848][319]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_BaseC18EC71C46C5548D468AFFACA0F04CE5.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.26.38:861][319]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.26.38:861][319]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.26.40:634][426]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.05-16.26.40:639][426]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.08.05-16.26.40:640][426]LogPlayLevel: [PlayLevel] Compiling ABP_Captain before play...
+[2025.08.05-16.26.40:679][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2025.08.05-16.26.40:679][426]LogPlayLevel: PlayLevel: Blueprint regeneration took 40 ms (1 blueprints)
+[2025.08.05-16.26.40:679][426]PIE: New page: PIE session: M_Debug (2025年8月6日 上午8:26:40)
+[2025.08.05-16.26.40:680][426]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.26.40:681][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001456s)
+[2025.08.05-16.26.40:682][426]LogAIModule: Creating AISystem for world M_Debug
+[2025.08.05-16.26.40:682][426]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2025.08.05-16.26.40:682][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Debug.M_Debug to /Game/Maps/UEDPIE_0_M_Debug.M_Debug (0.002316s)
+[2025.08.05-16.26.40:710][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.08.05-16.26.40:711][426]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.08.05-16.26.40:711][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-16.26.40:711][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-16.26.40:711][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-16.26.40:711][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-16.26.40:711][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.05-16.26.40:711][426]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-16.26.40:711][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.05-16.26.40:711][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-16.26.40:711][426]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-16.26.40:711][426]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-16.26.40:711][426]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-16.26.40:711][426]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.05-16.26.40:715][426]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.05-16.26.40:715][426]LogAudioMixer: Display: 1: FrontRight
+[2025.08.05-16.26.40:727][426]LogAudioMixer: Display: Using Audio Device 原道 (Realtek(R) Audio)
+[2025.08.05-16.26.40:727][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-16.26.40:727][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-16.26.40:727][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-16.26.40:727][426]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.05-16.26.40:727][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.05-16.26.40:727][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.05-16.26.40:729][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.05-16.26.40:729][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.05-16.26.40:729][426]LogInit: FAudioDevice initialized.
+[2025.08.05-16.26.40:729][426]LogAudio: Display: Audio Device (ID: 35) registered with world 'M_Debug'.
+[2025.08.05-16.26.40:736][426]LogLoad: Game class is 'GM_MainRule_C'
+[2025.08.05-16.26.40:737][426]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Debug.M_Debug up for play (max tick rate 60) at 2025.08.06-00.26.40
+[2025.08.05-16.26.40:738][426]LogWorld: Bringing up level for play took: 0.000558
+[2025.08.05-16.26.40:738][426]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2025.08.05-16.26.40:740][426]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.08.05-16.26.40:741][426]PIE: Server logged in
+[2025.08.05-16.26.40:741][426]PIE: Play in editor total start time 0.103 seconds.
+[2025.08.05-16.26.41:137][450]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.41:653][481]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.42:402][526]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.43:102][568]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.43:936][618]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.44:452][649]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.45:153][691]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.45:653][721]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.46:203][754]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.46:887][795]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.47:537][834]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.48:069][866]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.48:653][901]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.49:286][939]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.49:787][969]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.50:352][  3]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.51:953][ 99]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.52:420][127]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.26.52:950][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.26.52:950][157]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.26.52:950][157]LogWorld: UWorld::CleanupWorld for M_Debug, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-16.26.52:950][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.26.52:958][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-16.26.52:967][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.26.52:994][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.26.52:994][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.26.52:995][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.26.52:999][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.08.05-16.26.53:026][158]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.08.05-16.26.55:676][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.05-16.26.56:477][364]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.05-16.26.58:011][456]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.05-16.27.02:545][728]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.05-16.27.17:055][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2025.08.05-16.27.21:947][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Debug" FILE="E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.05-16.27.21:976][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.08.05-16.27.21:981][890]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/M_DebugEF711EAB401C39D154AB04925DD59589.tmp' to 'E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap'
+[2025.08.05-16.27.21:987][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Debug_BuiltData" FILE="E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug_BuiltData.uasset" SILENT=true
+[2025.08.05-16.27.21:997][890]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/M_Debug_BuiltDataEEB340BA4515D6E97A6F0796F9BAF130.tmp' to 'E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug_BuiltData.uasset'
+[2025.08.05-16.27.22:009][890]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.05-16.27.22:009][890]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/M_Debug_BuiltData.M_Debug_BuiltData
+[2025.08.05-16.27.22:009][890]LogContentValidation: Display: Validating World /Game/Maps/M_Debug.M_Debug
+[2025.08.05-16.27.31:199][440]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.08.05-16.27.31:217][440]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.05-16.27.48:773][493]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave S_Hit...
+[2025.08.05-16.27.48:773][493]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Action_Platformer_Sounds/S_Hit.S_Hit will be modified from 40 to 40.
+[2025.08.05-16.27.48:776][493]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 14266 while cooking SoundWave /Game/Assets/Action_Platformer_Sounds/S_Hit.S_Hit.
+[2025.08.05-16.28.46:729][794]BlueprintLog: New page: Compile BP_PaperZdCharacter_base
+[2025.08.05-16.28.46:793][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2025.08.05-16.28.49:484][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2025.08.05-16.28.49:504][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Debug" FILE="E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.05-16.28.49:530][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.08.05-16.28.49:535][943]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/M_Debug79A9E1FB4557EAEFCC7AD4BDE720D9AF.tmp' to 'E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap'
+[2025.08.05-16.28.49:541][943]LogFileHelpers: Saving map 'M_Debug' took 0.037
+[2025.08.05-16.28.49:541][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Characters/BP_PaperZdCharacter_base" FILE="E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/BP_PaperZdCharacter_base.uasset" SILENT=true
+[2025.08.05-16.28.49:545][943]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_baseC56CFC38487CDCE9372E5AA8EB097FA5.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/BP_PaperZdCharacter_base.uasset'
+[2025.08.05-16.28.49:548][943]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_CaptaE8C9A9CD4DC411C56FD475A78694F340.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/Captain/BP_PaperZdCharacter_Player_Captain.uasset'
+[2025.08.05-16.28.49:560][943]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base119906EB45F2A06831A1B7A526D0652A.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.28.49:562][943]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/Attack509FB4FD43445E5D359874A881619970.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/Captain/AnimSequences/Attack.uasset'
+[2025.08.05-16.28.49:580][943]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.05-16.28.49:580][943]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/BP_PaperZdCharacter_base.BP_PaperZdCharacter_base
+[2025.08.05-16.28.49:580][943]LogContentValidation: Display: Validating World /Game/Maps/M_Debug.M_Debug
+[2025.08.05-16.28.49:580][943]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.28.49:580][943]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/Captain/BP_PaperZdCharacter_Player_Captain.BP_PaperZdCharacter_Player_Captain
+[2025.08.05-16.28.49:580][943]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/BluePrints/Characters/Player/Captain/AnimSequences/Attack.Attack
+[2025.08.05-16.28.49:975][967]BlueprintLog: New page: Compile BP_PaperZdCharacter_base
+[2025.08.05-16.28.50:033][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.08.05-16.29.20:498][501]BlueprintLog: New page: Compile BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.29.20:551][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2025.08.05-16.29.21:211][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2025.08.05-16.29.21:229][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Debug" FILE="E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.05-16.29.21:254][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.05-16.29.21:259][538]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/M_Debug3C0063E04B2D3A8A184161AF8CE24CB4.tmp' to 'E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap'
+[2025.08.05-16.29.21:263][538]LogFileHelpers: Saving map 'M_Debug' took 0.035
+[2025.08.05-16.29.21:273][538]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base58745FD04761ECFF9A843ABE8DCF0D6C.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.29.21:288][538]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.05-16.29.21:288][538]LogContentValidation: Display: Validating World /Game/Maps/M_Debug.M_Debug
+[2025.08.05-16.29.21:288][538]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.29.26:870][872]BlueprintLog: New page: Compile BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.29.26:924][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.08.05-16.29.30:546][ 86]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base8E6600334C1698FB62BE5E94B74C27DD.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.29.30:559][ 86]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.29.30:559][ 86]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.29.38:452][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Characters/BP_PaperZdCharacter_base" FILE="E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/BP_PaperZdCharacter_base.uasset" SILENT=true
+[2025.08.05-16.29.38:455][558]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_baseBFE743404DBA4981DBA8B48019D7231E.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/BP_PaperZdCharacter_base.uasset'
+[2025.08.05-16.29.38:469][558]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_base
+[2025.08.05-16.29.38:469][558]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/BP_PaperZdCharacter_base.BP_PaperZdCharacter_base
+[2025.08.05-16.29.39:975][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.08.05-16.29.58:735][762]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_BaseC06476264E34AEB81CEFE39572AA6B20.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.29.58:748][762]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.29.58:748][762]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.29.59:960][835]BlueprintLog: New page: Compile BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.30.00:023][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2025.08.05-16.30.00:502][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.08.05-16.30.01:961][948]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.05-16.30.01:966][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-16.30.01:966][948]PIE: New page: PIE session: M_Debug (2025年8月6日 上午8:30:01)
+[2025.08.05-16.30.01:966][948]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.30.01:967][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001173s)
+[2025.08.05-16.30.01:968][948]LogAIModule: Creating AISystem for world M_Debug
+[2025.08.05-16.30.01:968][948]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2025.08.05-16.30.01:968][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Debug.M_Debug to /Game/Maps/UEDPIE_0_M_Debug.M_Debug (0.001943s)
+[2025.08.05-16.30.01:995][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.08.05-16.30.01:996][948]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.08.05-16.30.01:996][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-16.30.01:996][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-16.30.01:996][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-16.30.01:996][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-16.30.01:996][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.05-16.30.01:996][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-16.30.01:996][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.05-16.30.01:996][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-16.30.01:996][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-16.30.01:996][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-16.30.01:996][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-16.30.01:996][948]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.05-16.30.02:000][948]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.05-16.30.02:000][948]LogAudioMixer: Display: 1: FrontRight
+[2025.08.05-16.30.02:011][948]LogAudioMixer: Display: Using Audio Device 原道 (Realtek(R) Audio)
+[2025.08.05-16.30.02:011][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-16.30.02:011][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-16.30.02:012][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-16.30.02:012][948]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.05-16.30.02:012][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.05-16.30.02:012][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.05-16.30.02:012][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.05-16.30.02:012][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.05-16.30.02:012][948]LogInit: FAudioDevice initialized.
+[2025.08.05-16.30.02:014][948]LogAudio: Display: Audio Device (ID: 36) registered with world 'M_Debug'.
+[2025.08.05-16.30.02:029][948]LogLoad: Game class is 'GM_MainRule_C'
+[2025.08.05-16.30.02:030][948]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Debug.M_Debug up for play (max tick rate 60) at 2025.08.06-00.30.02
+[2025.08.05-16.30.02:030][948]LogWorld: Bringing up level for play took: 0.000540
+[2025.08.05-16.30.02:030][948]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2025.08.05-16.30.02:032][948]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.08.05-16.30.02:032][948]PIE: Server logged in
+[2025.08.05-16.30.02:033][948]PIE: Play in editor total start time 0.069 seconds.
+[2025.08.05-16.30.02:314][965]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.02:679][987]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.02:845][997]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.03:012][  7]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.03:178][ 17]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.03:362][ 28]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.03:862][ 58]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.04:612][103]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.04:779][113]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.04:961][124]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.05:128][134]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.05:312][145]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.05:478][155]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.05:646][165]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.05:829][176]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.06:012][187]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.06:195][198]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.06:645][225]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.07:113][253]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.07:461][274]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.07:645][285]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.07:829][296]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.07:995][306]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.08:179][317]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.30.09:010][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.30.09:010][365]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.30.09:010][365]LogWorld: UWorld::CleanupWorld for M_Debug, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-16.30.09:010][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.30.09:016][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-16.30.09:024][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.30.09:050][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.30.09:050][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.30.09:052][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.30.09:057][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2025.08.05-16.30.09:096][367]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.08.05-16.30.14:603][697]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-16.30.14:603][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.30.16:684][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2025.08.05-16.30.17:919][891]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_BaseA54B2E414561478733BCE4820AE22485.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.30.17:933][891]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.30.17:933][891]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.30.25:984][373]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base0C88B3A64E2A0669F8813CBF9D2AA9BC.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.30.25:997][373]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.30.25:997][373]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.30.30:512][643]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base1B9BA2CE4E5C6D75D0F2439BC79B2E3F.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.30.30:525][643]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.30.30:525][643]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.30.47:051][617]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base7B4CE281440CF9DFAC5EBC9B6A4166D8.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.30.47:062][617]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.30.47:062][617]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.31.05:277][701]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base2566733C408B59F2891DDCA8AC486588.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.31.05:289][701]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.31.05:289][701]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.31.06:310][763]BlueprintLog: New page: Compile BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.31.06:364][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.08.05-16.31.06:774][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2025.08.05-16.31.07:918][854]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.05-16.31.07:923][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-16.31.07:923][854]PIE: New page: PIE session: M_Debug (2025年8月6日 上午8:31:07)
+[2025.08.05-16.31.07:924][854]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.31.07:925][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001272s)
+[2025.08.05-16.31.07:925][854]LogAIModule: Creating AISystem for world M_Debug
+[2025.08.05-16.31.07:926][854]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2025.08.05-16.31.07:926][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Debug.M_Debug to /Game/Maps/UEDPIE_0_M_Debug.M_Debug (0.002169s)
+[2025.08.05-16.31.07:953][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.08.05-16.31.07:954][854]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.08.05-16.31.07:954][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-16.31.07:954][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-16.31.07:954][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-16.31.07:954][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-16.31.07:954][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.05-16.31.07:954][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-16.31.07:954][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.05-16.31.07:954][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-16.31.07:954][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-16.31.07:954][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-16.31.07:954][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-16.31.07:954][854]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.05-16.31.07:957][854]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.05-16.31.07:957][854]LogAudioMixer: Display: 1: FrontRight
+[2025.08.05-16.31.07:969][854]LogAudioMixer: Display: Using Audio Device 原道 (Realtek(R) Audio)
+[2025.08.05-16.31.07:970][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-16.31.07:970][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-16.31.07:970][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-16.31.07:970][854]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.05-16.31.07:970][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.05-16.31.07:970][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.05-16.31.07:971][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.05-16.31.07:971][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.05-16.31.07:971][854]LogInit: FAudioDevice initialized.
+[2025.08.05-16.31.07:971][854]LogAudio: Display: Audio Device (ID: 37) registered with world 'M_Debug'.
+[2025.08.05-16.31.07:976][854]LogLoad: Game class is 'GM_MainRule_C'
+[2025.08.05-16.31.07:977][854]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Debug.M_Debug up for play (max tick rate 60) at 2025.08.06-00.31.07
+[2025.08.05-16.31.07:977][854]LogWorld: Bringing up level for play took: 0.000608
+[2025.08.05-16.31.07:977][854]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2025.08.05-16.31.07:980][854]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.08.05-16.31.07:980][854]PIE: Server logged in
+[2025.08.05-16.31.07:981][854]PIE: Play in editor total start time 0.059 seconds.
+[2025.08.05-16.31.09:980][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.31.09:980][972]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.31.09:980][972]LogWorld: UWorld::CleanupWorld for M_Debug, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-16.31.09:980][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.31.09:990][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-16.31.09:997][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.31.10:022][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.31.10:022][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.31.10:023][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.31.10:029][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.08.05-16.31.10:054][973]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.08.05-16.31.20:519][596]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base1C848CF04ED439CBE68508B07689BB92.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.31.20:533][596]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.31.20:533][596]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.31.26:333][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.08.05-16.31.26:352][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Debug" FILE="E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.05-16.31.26:376][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.08.05-16.31.26:382][942]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/M_Debug00D731FC4E4364367440898230DC167C.tmp' to 'E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap'
+[2025.08.05-16.31.26:387][942]LogFileHelpers: Saving map 'M_Debug' took 0.035
+[2025.08.05-16.31.26:387][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Characters/BP_PaperZdCharacter_base" FILE="E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/BP_PaperZdCharacter_base.uasset" SILENT=true
+[2025.08.05-16.31.26:390][942]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_baseF72BA75C41243C841ECCCE829CBD31A3.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/BP_PaperZdCharacter_base.uasset'
+[2025.08.05-16.31.26:394][942]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_CaptaEBAF2D124F16DC2DC51F9D8E28FDC0E9.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/Captain/BP_PaperZdCharacter_Player_Captain.uasset'
+[2025.08.05-16.31.26:405][942]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base7977BBC341EE3BDAB573A08142E8B835.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.31.26:419][942]AssetCheck: New page: Asset Save: multiple assets
+[2025.08.05-16.31.26:419][942]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/BP_PaperZdCharacter_base.BP_PaperZdCharacter_base
+[2025.08.05-16.31.26:419][942]LogContentValidation: Display: Validating World /Game/Maps/M_Debug.M_Debug
+[2025.08.05-16.31.26:419][942]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.31.26:419][942]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/Captain/BP_PaperZdCharacter_Player_Captain.BP_PaperZdCharacter_Player_Captain
+[2025.08.05-16.31.26:806][966]BlueprintLog: New page: Compile BP_PaperZdCharacter_base
+[2025.08.05-16.31.26:863][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2025.08.05-16.31.27:238][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Characters/BP_PaperZdCharacter_base" FILE="E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/BP_PaperZdCharacter_base.uasset" SILENT=true
+[2025.08.05-16.31.27:241][987]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_base387680A849AF532120B000A85256685B.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/BP_PaperZdCharacter_base.uasset'
+[2025.08.05-16.31.27:267][987]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_base
+[2025.08.05-16.31.27:267][987]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/BP_PaperZdCharacter_base.BP_PaperZdCharacter_base
+[2025.08.05-16.31.27:980][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2025.08.05-16.31.28:000][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Debug" FILE="E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.05-16.31.28:023][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.08.05-16.31.28:028][ 29]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/M_Debug27285BEB437B9117BEFF4CB0D42C48F3.tmp' to 'E:/programs/UE4_learn/workdemo/Content/Maps/M_Debug.umap'
+[2025.08.05-16.31.28:033][ 29]LogFileHelpers: Saving map 'M_Debug' took 0.034
+[2025.08.05-16.31.28:046][ 29]AssetCheck: New page: Asset Save: M_Debug
+[2025.08.05-16.31.28:046][ 29]LogContentValidation: Display: Validating World /Game/Maps/M_Debug.M_Debug
+[2025.08.05-16.31.29:266][103]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.05-16.31.29:270][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-16.31.29:270][103]PIE: New page: PIE session: M_Debug (2025年8月6日 上午8:31:29)
+[2025.08.05-16.31.29:271][103]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.31.29:272][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001146s)
+[2025.08.05-16.31.29:272][103]LogAIModule: Creating AISystem for world M_Debug
+[2025.08.05-16.31.29:272][103]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2025.08.05-16.31.29:272][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Debug.M_Debug to /Game/Maps/UEDPIE_0_M_Debug.M_Debug (0.001899s)
+[2025.08.05-16.31.29:299][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.08.05-16.31.29:299][103]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.08.05-16.31.29:299][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-16.31.29:299][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-16.31.29:299][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-16.31.29:299][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-16.31.29:299][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.05-16.31.29:299][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-16.31.29:299][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.05-16.31.29:299][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-16.31.29:301][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-16.31.29:301][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-16.31.29:301][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-16.31.29:301][103]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.05-16.31.29:304][103]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.05-16.31.29:304][103]LogAudioMixer: Display: 1: FrontRight
+[2025.08.05-16.31.29:315][103]LogAudioMixer: Display: Using Audio Device 原道 (Realtek(R) Audio)
+[2025.08.05-16.31.29:316][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-16.31.29:316][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-16.31.29:316][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-16.31.29:316][103]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.05-16.31.29:316][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.05-16.31.29:316][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.05-16.31.29:317][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.05-16.31.29:317][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.05-16.31.29:317][103]LogInit: FAudioDevice initialized.
+[2025.08.05-16.31.29:317][103]LogAudio: Display: Audio Device (ID: 38) registered with world 'M_Debug'.
+[2025.08.05-16.31.29:325][103]LogLoad: Game class is 'GM_MainRule_C'
+[2025.08.05-16.31.29:326][103]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Debug.M_Debug up for play (max tick rate 60) at 2025.08.06-00.31.29
+[2025.08.05-16.31.29:326][103]LogWorld: Bringing up level for play took: 0.000575
+[2025.08.05-16.31.29:326][103]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2025.08.05-16.31.29:328][103]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.08.05-16.31.29:328][103]PIE: Server logged in
+[2025.08.05-16.31.29:330][103]PIE: Play in editor total start time 0.06 seconds.
+[2025.08.05-16.31.29:508][114]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.31.29:857][135]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.31.30:224][157]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.31.30:574][178]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.31.30:974][202]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.31.31:374][226]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.31.33:711][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.31.33:711][364]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.31.33:711][364]LogWorld: UWorld::CleanupWorld for M_Debug, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-16.31.33:711][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.31.33:716][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-16.31.33:724][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.31.33:748][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.31.33:748][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.31.33:751][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.31.33:755][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.08.05-16.31.33:779][365]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.08.05-16.34.05:394][864]LogEditorTransaction: Undo Create Pin Link
+[2025.08.05-16.34.05:947][894]LogEditorTransaction: Undo Create Pin Link
+[2025.08.05-16.34.06:506][927]LogEditorTransaction: Undo Create Pin Link
+[2025.08.05-16.34.27:734][193]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_BaseCF659B1C4C06D21C2018E29DD27322DC.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.34.27:747][193]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.34.27:747][193]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.34.39:292][875]LogSavePackage: Moving 'E:/programs/UE4_learn/workdemo/Saved/BP_PaperZdCharacter_Player_Base137DFF8A4ECF829FCC62B6BE5B19BE01.tmp' to 'E:/programs/UE4_learn/workdemo/Content/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.uasset'
+[2025.08.05-16.34.39:305][875]AssetCheck: New page: Asset Save: BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.34.39:305][875]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Characters/Player/BP_PaperZdCharacter_Player_Base.BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.34.41:552][934]BlueprintLog: New page: Compile BP_PaperZdCharacter_Player_Base
+[2025.08.05-16.34.41:607][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2025.08.05-16.34.42:328][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2025.08.05-16.34.43:455][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2025.08.05-16.34.43:460][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-16.34.43:460][ 42]PIE: New page: PIE session: M_Debug (2025年8月6日 上午8:34:43)
+[2025.08.05-16.34.43:489][ 42]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.34.43:490][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001342s)
+[2025.08.05-16.34.43:491][ 42]LogAIModule: Creating AISystem for world M_Debug
+[2025.08.05-16.34.43:491][ 42]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2025.08.05-16.34.43:491][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_Debug.M_Debug to /Game/Maps/UEDPIE_0_M_Debug.M_Debug (0.002224s)
+[2025.08.05-16.34.43:518][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.08.05-16.34.43:518][ 42]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.08.05-16.34.43:518][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-16.34.43:518][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-16.34.43:518][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-16.34.43:518][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-16.34.43:518][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.05-16.34.43:518][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-16.34.43:518][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.05-16.34.43:518][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-16.34.43:520][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-16.34.43:520][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-16.34.43:520][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-16.34.43:520][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.05-16.34.43:524][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.05-16.34.43:524][ 42]LogAudioMixer: Display: 1: FrontRight
+[2025.08.05-16.34.43:535][ 42]LogAudioMixer: Display: Using Audio Device 原道 (Realtek(R) Audio)
+[2025.08.05-16.34.43:535][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-16.34.43:535][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-16.34.43:535][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-16.34.43:536][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.05-16.34.43:536][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.05-16.34.43:536][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.05-16.34.43:537][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.05-16.34.43:537][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.05-16.34.43:537][ 42]LogInit: FAudioDevice initialized.
+[2025.08.05-16.34.43:537][ 42]LogAudio: Display: Audio Device (ID: 39) registered with world 'M_Debug'.
+[2025.08.05-16.34.43:547][ 42]LogLoad: Game class is 'GM_MainRule_C'
+[2025.08.05-16.34.43:547][ 42]LogWorld: Bringing World /Game/Maps/UEDPIE_0_M_Debug.M_Debug up for play (max tick rate 60) at 2025.08.06-00.34.43
+[2025.08.05-16.34.43:548][ 42]LogWorld: Bringing up level for play took: 0.000521
+[2025.08.05-16.34.43:548][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2025.08.05-16.34.43:551][ 42]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.08.05-16.34.43:551][ 42]PIE: Server logged in
+[2025.08.05-16.34.43:551][ 42]PIE: Play in editor total start time 0.093 seconds.
+[2025.08.05-16.34.43:698][ 50]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.44:463][ 96]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.44:864][120]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.45:514][159]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.46:263][204]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.46:847][239]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.47:797][296]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.48:414][333]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.48:964][366]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.34.49:697][410]LogScript: Script Msg: Playing animation override...
