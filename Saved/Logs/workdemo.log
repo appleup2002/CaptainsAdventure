@@ -4950,3 +4950,14 @@ Begin'
 [2025.08.05-16.34.48:414][333]LogScript: Script Msg: Playing animation override...
 [2025.08.05-16.34.48:964][366]LogScript: Script Msg: Playing animation override...
 [2025.08.05-16.34.49:697][410]LogScript: Script Msg: Playing animation override...
+[2025.08.05-16.35.51:611][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.35.51:611][875]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_M_Debug
+[2025.08.05-16.35.51:611][875]LogWorld: UWorld::CleanupWorld for M_Debug, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-16.35.51:611][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.35.51:619][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-16.35.51:627][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-16.35.51:652][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-16.35.51:652][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.35.51:654][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.08.05-16.35.51:658][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.08.05-16.35.51:699][877]LogPlayLevel: Display: Destroying online subsystem :Context_52
