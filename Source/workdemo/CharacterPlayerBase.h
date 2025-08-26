@@ -6,6 +6,7 @@
 #include "CharacterBase.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
+#include "PaperFlipbook.h"
 #include "PaperZDAnimationComponent.h"
 #include "PaperZDAnimInstance.h"
 #include "PaperZD\Public\AnimSequences\PaperZDAnimSequence.h"
@@ -27,7 +28,7 @@ protected:
 	UCameraComponent* CameraComp;
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Anims")
 	UPaperZDAnimSequence* AttackAnim;
-	FTimerHandle TimerHandle;
+	FTimerHandle AttackTimer;
 
 	float AttackDelay;
 

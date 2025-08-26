@@ -26,8 +26,10 @@ This::ACharacterPlayerBase() {
 
 void This::BeginPlay() {
 	Super::BeginPlay();
+	//0 is Player
+	Fraction = 0;
 
-	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::White, TEXT("We are using CharacterPlayerBase."));
+	//GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::White, TEXT("We are using CharacterPlayerBase."));
 	
 }
 
@@ -69,7 +71,6 @@ void This::StartAttack() {
 		return;
 
 	IsAttack = true;
-	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::White, TEXT("Start Attack"));
 
 	GetAnimInstance()->PlayAnimationOverride(
 		AttackAnim,
@@ -79,7 +80,7 @@ void This::StartAttack() {
 	);
 
 	GetWorld()->GetTimerManager().SetTimer(
-		TimerHandle,
+		AttackTimer,
 		this,
 		&This::OnAttackAnimationCompleted,
 		1.0,
@@ -88,7 +89,6 @@ void This::StartAttack() {
 	);
 }
 void This::OnAttackAnimationCompleted() {
-	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::White, TEXT("Attack Complete"));
 	IsAttack = false;
 }
 void This::EndAttack() {}
