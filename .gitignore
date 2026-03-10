@@ -1,0 +1,39 @@
+.vs/
+Intermediate
+Content/Stylized_Egypt
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.sln
+*.suo
+*.xcodeproj
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# 编译产物
+*.obj
+*.pch
+*.ilk
+*.meta
+*.exp
+*.lib
+*.dll
+*.exe
+
+# 日志文件
+*.log
+*.backup
+*.aps
+
+# 临时文件
+*.tmp
+*.temp
+Thumbs.db
+
+# 特定平台
+iOS/
+Android/
