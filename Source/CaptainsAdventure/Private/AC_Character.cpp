@@ -1,12 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "JustTest.h"
+#include "AC_Character.h"
 
-JustTest::JustTest()
-{
-}
-
-JustTest::~JustTest()
-{
-}

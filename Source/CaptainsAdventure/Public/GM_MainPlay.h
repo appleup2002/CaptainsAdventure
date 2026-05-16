@@ -14,4 +14,14 @@ class CAPTAINSADVENTURE_API AGM_MainPlay : public AGameMode
 {
 	GENERATED_BODY()
 	
+public:
+	UPROPERTY(BlueprintReadWrite)
+	float RotationAngle;
+	UPROPERTY(BlueprintReadWrite)
+	FVector NowDirection; 	
+	AGM_MainPlay();
+	
+protected:
+	virtual void BeginPlay() override;
+
 };
