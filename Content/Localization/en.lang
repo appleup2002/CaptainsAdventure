@@ -1,0 +1,14 @@
+# Buttons
+btn_start=Start
+btn_settings=Settings
+btn_exit=Exit
+
+# Monsters
+mst_shark1=Ravenous Shark
+
+# Abilities
+abt_DoubleJump=Double Jump
+abt_ThrowSword=Throw Sword
+
+# Pickups
+item_health=Health Recovery

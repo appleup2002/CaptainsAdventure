@@ -1,0 +1,14 @@
+# 按钮
+btn_start=开始
+btn_settings=设置
+btn_exit=退出
+
+#怪物
+mst_shark1=穷凶极恶鲨
+
+#能力
+abt_DoubleJump=二段跳
+abt_ThrowSword=投掷剑
+
+#拾取物
+item_health=血量回复
