@@ -12,3 +12,7 @@ abt_ThrowSword=Throw Sword
 
 # Pickups
 item_health=Health Recovery
+
+# Describe
+dsc_DoubleJump=Press the jump key again to perform a double jump
+dsc_ThrowSword=Press the special attack key to launch a flying sword. It can stick to walls as a platform. Only one sword can exist at a time

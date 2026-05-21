@@ -28,6 +28,7 @@ Build/
 *.log
 *.backup
 *.aps
+*.md
 
 # 临时文件
 *.tmp

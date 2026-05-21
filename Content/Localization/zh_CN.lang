@@ -12,3 +12,9 @@ abt_ThrowSword=投掷剑
 
 #拾取物
 item_health=血量回复
+
+
+# Describe
+
+dsc_DoubleJump=再次按下跳跃键可以进行二段跳
+dsc_ThrowSword=按下特殊攻击键，可以发射一把飞剑，插在墙壁上可以作为辅助平台，同时最多存在一把
